@@ -10,7 +10,7 @@ CapsLock::AppsKey
 ; I use my mouse on my left hand at work and this is an easy
 ; way to bring up the config screen so that other people
 ; can use my computer or I can use it when remoted in.
-$ScrollLock::Run "C:\Users\rlancaster\Desktop\mouse.lnk"
+$ScrollLock::Run "C:\Users\<username>\Desktop\mouse.lnk"
 
 
 ; Uncomment the following if you want nice quick shortcuts
