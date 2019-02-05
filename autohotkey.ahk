@@ -19,7 +19,7 @@ $ScrollLock::Run "C:\Users\<username>\Desktop\mouse.lnk"
 ; For the FlexPro keyboard
 ; make ctrl+; function like ctrl+s
 ; >^`;::
-; Send ^S
+; Send ^s
 ; return
 
 ; For the FlexPro
